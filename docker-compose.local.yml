@@ -1,0 +1,4 @@
+services:
+  receiver:
+    ports:
+      - "0.0.0.0:3005:3005"
